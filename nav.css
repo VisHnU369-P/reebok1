@@ -1,0 +1,95 @@
+@import url(./scroll.css);
+
+#nav{
+    width: 100% !important;
+    height: 70px !important;
+    margin: auto;
+    background-color: #0078ad !important;
+}
+
+#sub-nav{
+    width: 90%;
+}
+
+.bx-menu{
+    color: white;
+    font-size: 30px;
+}
+
+#JioMart{
+    padding-left: 30px !important;
+}
+
+#dil{
+    padding-left: 30px !important;
+    background-color: #0078ad !important;
+}
+
+
+.btn-primary{
+    background-color: #0078ad !important;
+}
+
+.btn-primary:hover{
+    background-color: rgb(65, 57, 57) !important;
+}
+
+#but1{
+    width: 150px;
+    font-size: 22px;
+    border-radius: 20PX;
+}
+
+#but1 span{
+    font-weight: 700;
+}
+
+#but1 sub{
+    font-weight: 0;
+}
+
+#but2{
+    width: 150px;
+    font-size: 18px;
+    border-radius: 20PX;
+}
+
+#but{
+    
+    font-size: 18px;
+    border-radius: 100%;
+}
+
+#but4{
+    width: 150px;
+    margin-left: 20px;
+}
+
+#nav2{
+    /* border: 2px solid; */
+    height: 50px;
+    background-color: #0C5273;
+}
+
+#nav3{
+    /* border: 2px solid red; */
+    width: 95%;
+    height: inherit;
+    margin: auto;
+    background-color: #0c5273;
+    display: flex;
+ 
+    
+    align-items: center;
+}
+
+.dropdown{
+    width: 5px !important;
+}
+
+.dropdown-toggle{
+    background-color: #0C5273;
+    height: 25px;
+    font-weight: 600;
+   border-color: #0C5273;
+}

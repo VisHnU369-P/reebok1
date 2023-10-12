@@ -1,0 +1,19 @@
+@import url(./multipic.css);
+
+#scroll{
+    border: 2px solid ;
+    height: 400px;
+}
+
+#content3{
+    /* border: 2px solid black; */
+    height: 250px;
+    margin: 20px;
+    
+}
+
+#poster{
+    height: 250px;
+    width: 1252px;
+    border-radius: 10px;
+}
